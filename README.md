@@ -28,7 +28,7 @@
 ## 🗂 Estrutura de Pastas
 
 ```
-EventManagerConsoleApp/
+EventManager/
 ├── model/
 │   ├── Usuario.java
 │   └── Evento.java
