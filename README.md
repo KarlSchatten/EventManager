@@ -91,11 +91,6 @@ Cidade: Caldas Novas Goias
 
 ---
 
-## 📈 Diagrama UML
-
-![UML Class Diagram](./A_UML_(Unified_Modeling_Language)_class_diagram_in.png)
-
----
 
 ## 📁 Arquivo de dados
 
