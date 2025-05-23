@@ -1,4 +1,4 @@
-# 📌 EventManagerConsoleApp
+# 📌 EventManager
 
 **Sistema de Gerenciamento de Eventos Locais** desenvolvido em Java, utilizando o paradigma orientado a objetos e arquitetura MVC simples. A aplicação é executada via console (terminal) e permite cadastro de usuários, eventos, participação e notificações com base em data/hora.
 
